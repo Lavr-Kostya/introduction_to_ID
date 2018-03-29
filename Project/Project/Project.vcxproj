@@ -126,12 +126,14 @@
   <ItemGroup>
     <ClCompile Include="ATM.cpp" />
     <ClCompile Include="CashСollectorMachine.cpp" />
+    <ClCompile Include="City.cpp" />
     <ClCompile Include="CrossRoads.cpp" />
     <ClCompile Include="MainFile.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ATM.h" />
     <ClInclude Include="CashСollectorMachine.h" />
+    <ClInclude Include="City.h" />
     <ClInclude Include="CrossRoads.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

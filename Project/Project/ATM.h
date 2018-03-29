@@ -6,6 +6,9 @@ private:
 	int AmountOfRecommendedMoney;
 	float ATMCoordinateX;
 	float ATMCoordinateY;
+	int number;
+	int mark;
+	bool VisitTops;
 public:
 	ATM();
 };
