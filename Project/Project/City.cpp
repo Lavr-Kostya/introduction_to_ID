@@ -4,4 +4,5 @@
 
 City::City()
 {
+	city = gcnew ArrayList();
 }
