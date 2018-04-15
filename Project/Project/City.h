@@ -8,5 +8,6 @@ private:
 	ArrayList^ city;
 public:
 	City();
+	ArrayList^ GetArrayList();
 };
 
