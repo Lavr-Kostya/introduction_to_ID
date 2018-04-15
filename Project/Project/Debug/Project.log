@@ -1,2 +1,21 @@
-﻿  City.cpp
-  Project.vcxproj -> C:\Users\Костя\source\repos\introduction_to_ID\Project\Debug\Project.exe
+﻿  MainFile.cpp
+c:\users\костя\desktop\project\project\mainfile.cpp(214): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\костя\desktop\project\project\mainfile.cpp(215): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\костя\desktop\project\project\mainfile.cpp(220): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\костя\desktop\project\project\mainfile.cpp(221): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\костя\desktop\project\project\mainfile.cpp(226): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\костя\desktop\project\project\mainfile.cpp(227): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\костя\desktop\project\project\mainfile.cpp(234): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\костя\desktop\project\project\mainfile.cpp(235): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\костя\desktop\project\project\mainfile.cpp(240): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\костя\desktop\project\project\mainfile.cpp(241): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\костя\desktop\project\project\mainfile.cpp(246): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\костя\desktop\project\project\mainfile.cpp(247): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\костя\desktop\project\project\mainfile.cpp(250): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\костя\desktop\project\project\mainfile.cpp(288): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\костя\desktop\project\project\mainfile.cpp(301): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\костя\desktop\project\project\mainfile.cpp(325): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\костя\desktop\project\project\mainfile.cpp(338): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\костя\desktop\project\project\mainfile.cpp(363): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\костя\desktop\project\project\mainfile.cpp(376): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Project.vcxproj -> C:\Users\Костя\Desktop\Project\Debug\Project.exe

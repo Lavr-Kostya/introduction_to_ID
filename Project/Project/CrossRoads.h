@@ -8,7 +8,7 @@ private:
 	int mark;
 	bool VisitTops;
 public:
-	CrossRoads();
+	CrossRoads(int);
 	float GetCoordinateX();
 	float GetCoordinateY();
 	int GetNumber();
@@ -16,7 +16,6 @@ public:
 	bool GetVisitTops();
 	bool SetCoordinateX(float CoordinateX1);
 	bool SetCoordinateY(float CoordinateY1);
-	bool SetNumber(int Number1);
 	bool SetMark(int Mark1);
 	bool SetVisitTops(bool VisitTops1);
 };

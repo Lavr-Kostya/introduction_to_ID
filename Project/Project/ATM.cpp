@@ -2,14 +2,13 @@
 
 
 
-ATM::ATM()
+ATM::ATM(int a)
 {
+	number = a;
+	mark = 2147483647;
+	VisitTops = false;
 }
 
-int ATM::GetMoney()
-{
-	return Money;
-}
 
 float ATM::GetATMCoordinateX()
 {
@@ -36,11 +35,7 @@ bool ATM::GetVisitTops()
 	return VisitTops;
 }
 
-bool ATM::SetMoney(int Money1)
-{
-	Money = Money1;
-	return true;
-}
+
 
 bool ATM::SetATMCoordinateX(float ATMCoordinateX1)
 {
@@ -54,11 +49,6 @@ bool ATM::SetATMCoordinateY(float ATMCoordinateY1)
 	return true;
 }
 
-bool ATM::SetNumber(int Number1)
-{
-	number = Number1;
-	return true;
-}
 
 bool ATM::SetMark(int Mark1)
 {

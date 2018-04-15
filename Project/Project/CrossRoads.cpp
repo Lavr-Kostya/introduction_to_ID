@@ -2,8 +2,11 @@
 
 
 
-CrossRoads::CrossRoads()
+CrossRoads::CrossRoads(int a)
 {
+	number = a;
+	mark = 2147483647;
+	VisitTops = false;
 }
 
 float CrossRoads::GetCoordinateX()
@@ -41,11 +44,6 @@ bool CrossRoads::SetCoordinateY(float CoordinateY1)
 	return true;
 }
 
-bool CrossRoads::SetNumber(int Number1)
-{
-	number = Number1;
-	return true;
-}
 
 bool CrossRoads::SetMark(int Mark1)
 {

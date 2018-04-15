@@ -3,12 +3,11 @@
 
 Cash—ollectorMachine::Cash—ollectorMachine()
 {
+	number = 1;
+	mark = 0;
+	VisitTops = false;
 }
 
-int	Cash—ollectorMachine::GetAmountOfMoney()
-{
-	return AmountOfMoney;
-}
  
 float Cash—ollectorMachine::GetCarCoordinateX()
 {
@@ -36,11 +35,6 @@ bool Cash—ollectorMachine::GetVisitTops()
 	return VisitTops;
 }
 
-bool Cash—ollectorMachine::SetAmountOfMoney(int AmountOfMoney1)
-{
-	AmountOfMoney = AmountOfMoney1;
-	return true;
-}
 
 bool Cash—ollectorMachine::SetCarCoordinateX(float CarCoordinateX1)
 {
@@ -51,12 +45,6 @@ bool Cash—ollectorMachine::SetCarCoordinateX(float CarCoordinateX1)
 bool Cash—ollectorMachine::SetCarCoordinateY(float CarCoordinateY1)
 {
 	CarCoordinateY = CarCoordinateY1;
-	return true;
-}
-
-bool Cash—ollectorMachine::SetNumber(int Number1)
-{
-	number = Number1;
 	return true;
 }
 
